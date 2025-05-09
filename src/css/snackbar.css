@@ -1,6 +1,5 @@
 :root {
-  --primary-color: #4361ee;
-  --success-color: #4cc9f0;
+  --success-color: #36b0d5;
   --error-color: #f72585;
   --text-color: #2b2d42;
   --bg-color: #f8f9fa;
@@ -9,12 +8,11 @@
   --transition: all 0.3s ease;
 }
 
-/* * {
+* {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
- */
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-color: var(--bg-color);
